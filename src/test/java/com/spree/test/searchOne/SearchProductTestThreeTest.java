@@ -1,5 +1,6 @@
-package com.spree.test;
+package com.spree.test.searchOne;
 
+import com.spree.core.BaseTest;
 import com.spree.pages.LandingPage;
 import org.testng.Assert;
 import org.testng.annotations.Test;

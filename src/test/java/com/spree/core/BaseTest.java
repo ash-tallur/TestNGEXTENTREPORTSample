@@ -1,4 +1,4 @@
-package com.spree.test;
+package com.spree.core;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
