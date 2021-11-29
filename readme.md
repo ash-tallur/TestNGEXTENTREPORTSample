@@ -1,3 +1,3 @@
 
 ### Run test
-mvn test
+mvn test# TestNGEXTENTREPORTSample
